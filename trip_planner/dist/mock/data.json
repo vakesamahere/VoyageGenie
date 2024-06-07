@@ -1,0 +1,27 @@
+[
+    {
+      "src": "./mock/pic/1.png",
+      "href": "https://www.baidu.com",
+      "info": "一些图片描述文字"
+    },
+    {
+      "src": "./mock/pic/2.png",
+      "href": "https://www.baidu.com",
+      "info": "一些图片描述文字"
+    },
+    {
+      "src": "./mock/pic/3.png",
+      "href": "https://www.baidu.com",
+      "info": "一些图片描述文字"
+    },
+    {
+      "src": "./mock/pic/4.png",
+      "href": "https://www.baidu.com",
+      "info": "一些图片描述文字"
+    },
+    {
+      "src": "./mock/pic/5.png",
+      "href": "https://www.baidu.com",
+      "info": "一些图片描述文字"
+    }
+]
