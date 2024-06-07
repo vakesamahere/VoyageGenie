@@ -1,6 +1,8 @@
 # VoyageGenie
 
-本项目的开发并不规范，引用了https://github.com/joaomdmoura/crewAI-examples中的trip_planner源代码，同时修改了crewai的底层文件，运行除了安装需要的包以外，还需将trip_planner/libs/中的crewai包替换环境中的crewai。
+本项目的开发并不规范，引用了https://github.com/joaomdmoura/crewAI-examples 中的trip_planner源代码
+
+同时修改了crewai的底层文件，运行除了安装需要的包以外，还需将trip_planner/libs/中的crewai包替换环境中的crewai。
 
 # build
 
