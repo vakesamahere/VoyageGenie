@@ -16,6 +16,7 @@ conda env create -f requirement.yml
 # .env
 需要将trip_planner/中创建.env
 设置如下值：
+
 SERPER_API_KEY = SERPER的key
 
 OPENAI_API_BASE = OpenAI API 的基础 URL 地址
