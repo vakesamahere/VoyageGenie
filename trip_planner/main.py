@@ -123,7 +123,6 @@ chats=[]
 #========================================end of data
 
 dashscope.api_key = os.environ.get('OPENAI_API_KEY')
-print("api-key:",dashscope.api_key,sep='')
 
 # 定义工具列表，模型在选择使用哪个工具时会参考工具的name和description
 #'''
